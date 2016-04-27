@@ -7,7 +7,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true">
         <meta-data android:name="xposedmodule" android:value="true"/>
-        <meta-data android:name="xposeddescription" android:value="Remove root restriction from a Finnish bank's mobile code app"/>
+        <meta-data android:name="xposeddescription" android:value="Remove root restriction from a Finnish Nordea bank's mobile code app, this app has to be used together with RootCloak. Add Code app in applist and 'find' in the command list of RootCloak"/>
         <meta-data android:name="xposedminversion" android:value="54"/>
     </application>
 
