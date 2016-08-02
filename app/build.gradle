@@ -7,7 +7,7 @@ android {
         applicationId "com.binaydevkota.xposedcodeapp"
         minSdkVersion 15
         targetSdkVersion 22
-        versionName '1.1'
+        versionName '3'
     }
     buildTypes {
         release {
